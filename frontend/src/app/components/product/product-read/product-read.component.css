@@ -1,0 +1,9 @@
+
+.edit > i {
+    color: green;
+    margin-right: 60px;
+}
+
+.delete > i {
+    color: #e35e6b;
+}
